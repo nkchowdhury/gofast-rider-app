@@ -1,0 +1,14 @@
+.img-card{
+    width:100%;
+    text-align:center;
+}
+
+.card-style{
+
+    text-align:center;
+    height:280px;
+    padding:25px;
+    margin-top: 80px;
+    border-radius:5px;
+
+}

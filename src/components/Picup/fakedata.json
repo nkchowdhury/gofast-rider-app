@@ -1,0 +1,120 @@
+[
+
+    
+    {
+        "id":1,
+        "vehicleType":"Bike",
+        "ticketPrice":90,
+        "vehicleImg":"https://i.ibb.co/fGxQSyX/bike-1.png"
+    },
+
+    {
+        "id":2,
+        "vehicleType":"Bike",
+        "ticketPrice":80,
+        "vehicleImg":"https://i.ibb.co/fGxQSyX/bike-1.png"
+    },
+    
+    {
+        "id":3,
+        "vehicleType":"Bike",
+        "ticketPrice":70,
+        "vehicleImg":"https://i.ibb.co/fGxQSyX/bike-1.png"
+    },
+
+    {
+        "id":4,
+        "vehicleType":"Bike",
+        "ticketPrice":60,
+        "vehicleImg":"https://i.ibb.co/fGxQSyX/bike-1.png"
+
+    },
+
+    {
+        "id":5,
+        "vehicleType":"Car",
+        "ticketPrice":120,
+        "vehicleImg":"https://i.ibb.co/TP1SJhb/car-blue.png"
+    },
+
+    {
+        "id":6,
+        "vehicleType":"Car",
+        "ticketPrice":100,
+        "vehicleImg":"https://i.ibb.co/TP1SJhb/car-blue.png"
+    },
+    
+    {
+        "id":7,
+        "vehicleType":"Car",
+        "ticketPrice":90,
+        "vehicleImg":"https://i.ibb.co/TP1SJhb/car-blue.png"
+    },
+
+    {
+        "id":8,
+        "vehicleType":"Car",
+        "ticketPrice":80,
+        "vehicleImg":"https://i.ibb.co/TP1SJhb/car-blue.png"
+
+    },
+    {
+        "id":9,
+        "vehicleType":"Bus",
+        "ticketPrice":70,
+        "vehicleImg":"https://i.ibb.co/mBzPktX/bus.png"
+    },
+
+    {
+        "id":10,
+        "vehicleType":"Bus",
+        "ticketPrice":60,
+        "vehicleImg":"https://i.ibb.co/mBzPktX/bus.png"
+    },
+    
+    {
+        "id":11,
+        "vehicleType":"Bus",
+        "ticketPrice":50,
+        "vehicleImg":"https://i.ibb.co/mBzPktX/bus.png"
+    },
+
+    {
+        "id":12,
+        "vehicleType":"Bus",
+        "ticketPrice":40,
+        "vehicleImg":"https://i.ibb.co/mBzPktX/bus.png"
+
+    },
+    {
+        "id":13,
+        "vehicleType":"Train",
+        "ticketPrice":40,
+        "vehicleImg":"https://i.ibb.co/0Dn4Fz0/train.png"
+    },
+
+    {
+        "id":14,
+        "vehicleType":"Train",
+        "ticketPrice":30,
+        "vehicleImg":"https://i.ibb.co/0Dn4Fz0/train.png"
+    },
+    
+    {
+        "id":15,
+        "vehicleType":"Train",
+        "ticketPrice":30,
+        "vehicleImg":"https://i.ibb.co/0Dn4Fz0/train.png"
+    },
+
+    {
+        "id":16,
+        "vehicleType":"Train",
+        "ticketPrice":25,
+        "vehicleImg":"https://i.ibb.co/0Dn4Fz0/train.png"
+
+    }
+
+
+ 
+]

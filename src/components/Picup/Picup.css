@@ -1,0 +1,33 @@
+.pic-part{
+    background-color:#efefef;
+    padding:30px 5px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+
+}
+.input-field{
+
+    padding-left: 10px;
+    border: none;
+    width: 80%;
+    height:40px;
+    border-radius: 5px;
+    color: lightgray;
+}
+
+.search-btn{
+    background:#ff6e40;
+    border: none;
+    width:80%;
+    height:40px;
+    border-radius: 5px;
+    color:white;
+    font-size:18px;
+    font-weight:400;
+}
+.search-result{
+    display:flex;
+}
+.ticket-img{
+    width: 100%;
+}
